@@ -1,9 +1,3 @@
-/* Font: Merriweather, Lato
-Farbe: #202020, #24bff2, #fff, #F5FBFE.
-Farbe social media: #3b5998, #fcaf45, #55acee, #c4302b */
-/* font-family: 'Lato', sans-serif;
-font-family: 'Merriweather Sans', sans-serif;
-font-family: 'Merriweather', serif; */
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Merriweather+Sans:wght@700&family=Merriweather:wght@300&display=swap');
 html{
     scroll-behavior: smooth;
@@ -144,4 +138,12 @@ footer{
     color: lightgray;
 }
 .afb::before{
+    
 }
+
+/* Font: Merriweather, Lato
+Farbe: #202020, #24bff2, #fff, #F5FBFE.
+Farbe social media: #3b5998, #fcaf45, #55acee, #c4302b */
+/* font-family: 'Lato', sans-serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Merriweather', serif; */
