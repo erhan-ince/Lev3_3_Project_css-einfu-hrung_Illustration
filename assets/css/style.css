@@ -150,7 +150,7 @@ footer{
     width:3px;
     height:3px;
     border-radius:50%;
-    background: gold;
+    background: orange;
     display:inline-block;
 }
 .atw::before{
