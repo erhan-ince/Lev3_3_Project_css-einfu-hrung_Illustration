@@ -138,7 +138,36 @@ footer{
     color: lightgray;
 }
 .afb::before{
-    
+    content:"\A";
+    width:3px;
+    height:3px;
+    border-radius:50%;
+    background: blue;
+    display:inline-block;
+}
+.aig::before{
+    content:"\A";
+    width:3px;
+    height:3px;
+    border-radius:50%;
+    background: gold;
+    display:inline-block;
+}
+.atw::before{
+    content:"\A";
+    width:3px;
+    height:3px;
+    border-radius:50%;
+    background: lightblue;
+    display:inline-block;
+}
+.ayt::before{
+    content:"\A";
+    width:3px;
+    height:3px;
+    border-radius:50%;
+    background: #b83b3b;
+    display:inline-block;
 }
 
 /* Font: Merriweather, Lato
